@@ -3,7 +3,7 @@ PEMF ESP32 Device
 
 ## Video
 
-https://github.com/user-attachments/assets/3472ca6c-6750-4edb-a5fc-2c420b08bbd8
+https://github.com/user-attachments/assets/8114b0ce-2998-44b8-9dd8-56c5ec355f1f
 
 ## Web Flash Installer
 
