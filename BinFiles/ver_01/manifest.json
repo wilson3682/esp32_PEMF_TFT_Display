@@ -1,5 +1,5 @@
 {
-  "name": "esp32_PEMF_ver_01",  
+  "name": "esp32_PEMF_v1.0",  
   "new_install_skip_erase": false,
   "builds": [
     {
@@ -13,4 +13,5 @@
       ]
     }
   ]
+
 }
