@@ -61,7 +61,15 @@
       image-rendering: crisp-edges;
       margin: 3vh 0 5px 0;
       animation: fi 1s;
-    }    
+    } 
+    img, video { /* <-- ADDED video HERE */
+  width: 770px;
+  max-width: 80%;
+  image-rendering: pixelated;
+  image-rendering: crisp-edges;
+  margin: 3vh 0 5px 0;
+  animation: fi 1s;
+}
     @keyframes fi {
     from { opacity: 0; }
     to   { opacity: 1; }
@@ -143,7 +151,10 @@
 <body onload="checkSupported()">
 
 <main class="main" style="margin-top:70px">
-<div class="Box-sc-g0xbh4-0 iIZCet"><img alt="BlinkingColon.gif" src="https://github.com/wilson3682/esp32_PEMF_TFT_Display/blob/main/Pictures/esp32_pemf.mp4?raw=true" data-hpc="true" class="Box-sc-g0xbh4-0 kzRgrI"></div>
+<!-- <div class="Box-sc-g0xbh4-0 iIZCet"><img alt="BlinkingColon.gif" src="https://github.com/wilson3682/esp32_PEMF_TFT_Display/blob/main/Pictures/esp32_pemf.mp4?raw=true" data-hpc="true" class="Box-sc-g0xbh4-0 kzRgrI"></div> -->
+  <div class="Box-sc-g0xbh4-0 iIZCet">
+  <video autoplay loop muted playsinline src="https://github.com/wilson3682/esp32_PEMF_TFT_Display/blob/main/Pictures/esp32_pemf.mp4?raw=true"></video>
+</div>
 <h2>Welcome to ESP32 PEMF Installer!</h2>
 
 <div id="flasher">
@@ -240,6 +251,7 @@
 </body>
 
 </html>
+
 
 
 
