@@ -150,17 +150,16 @@
 
 <ol>
   <li>Plug in your ESP32 to a USB port, to Install the <span id="verstr">0.12.0</span> firmare to it.</li>  
-  <li id="coms">Select the desired version and Hit "Install" then select the correct COM port. <a onclick="showSerialHelp()">No device found?</a></li>
+  <li id="coms">Select the desired version and click "Install" then select the correct COM port. <a onclick="showSerialHelp()">No device found?</a></li>
   <li>Note: All data on your device will be DELETED!!!</li>
-  <li>Thanks for Installing the esp32 PEMF Program</li>
-  <li>WebPage Inspired by WLED WebInstaller.</li>
+  <li>Thanks for Installing the esp32 PEMF Program</li>  
 </ol>
 <br><br>
 
 <div class="container inst-button">
  <!-- <script type="module" src="https://github.com/wilson3682/esp32_PEMF_TFT_Display/blob/main/installer/install-button.js?module"></script> -->
   <script type="module" src="https://unpkg.com/esp-web-tools@9.3.0/dist/web/install-button.js?module"></script> 
-  <esp-web-install-button id="inst" manifest="BinFiles/manifest.json" install-supported=""><template shadowrootmode="open"><slot name="activate"><button>INSTALL</button></slot></template>
+  <esp-web-install-button id="inst" manifest="BinFiles/ver_01/manifest.json" install-supported=""><template shadowrootmode="open"><slot name="activate"><button>INSTALL</button></slot></template>
     <button class="btn" slot="activate">Install</button>
   </esp-web-install-button><br>
 
@@ -241,6 +240,7 @@
 </body>
 
 </html>
+
 
 
 
