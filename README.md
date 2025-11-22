@@ -1,4 +1,4 @@
-# esp32_PEMF_TFT_Display
+# esp32 PEMF TFT Display Web flash Installer.
 PEMF ESP32 Device
 ### CYD Board used: 4.0'' 320x480 Touch Screen with ESP32
 - https://www.amazon.com/dp/B0FGJJ24S1?ref=ppx_yo2ov_dt_b_fed_asin_title&th=1
