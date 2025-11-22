@@ -15,3 +15,4 @@ https://github.com/user-attachments/assets/8114b0ce-2998-44b8-9dd8-56c5ec355f1f
 ### PEMF links info:
 - https://www.youtube.com/@Steeve./videos
 - https://www.patreon.com/posts/step-by-step-91251633
+- https://www.youtube.com/watch?v=3j_JqlPaQjg
