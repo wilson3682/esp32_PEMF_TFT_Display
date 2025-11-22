@@ -8,6 +8,7 @@ PEMF ESP32 Device
 - PWM = 25
 - DIR = 32
 - GND = GND
+- #### Wiring. ![Wiring](/Pictures/Wiring_back.png)
 ###
 ## Video
 https://github.com/user-attachments/assets/8114b0ce-2998-44b8-9dd8-56c5ec355f1f
