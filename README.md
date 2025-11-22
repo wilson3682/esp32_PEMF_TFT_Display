@@ -1,7 +1,9 @@
 # esp32_PEMF_TFT_Display
 PEMF ESP32 Device
-### CYD Board used: 
+### CYD Board used: 4.0'' 320x480 Touch Screen with ESP32
 - https://www.amazon.com/dp/B0FGJJ24S1?ref=ppx_yo2ov_dt_b_fed_asin_title&th=1
+### Cytron 13A DC Motor Driver MD10C
+- https://www.amazon.com/dp/B07CW3JZDH?ref_=ppx_hzsearch_conn_dt_b_fed_asin_title_5
 ### Output Pins -I2C connector on CYD Board
 - PWM = 25
 - DIR = 32
