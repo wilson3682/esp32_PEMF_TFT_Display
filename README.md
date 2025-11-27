@@ -10,7 +10,7 @@
 - The preset can be repeated up to 59 times.
 - Time for each wagon max 59 minutes.
 - ### Predifined:
-- List of conditions https://marcogentile.life/pemf-frequency-chart
+- Link to frequency chart and conditions https://marcogentile.life/pemf-frequency-chart
 - ### My Saved:
 - You can see and load your own custom presets.
 - ### Custom:
