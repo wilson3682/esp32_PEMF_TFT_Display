@@ -3,11 +3,11 @@
 ### This is a project in progress, right now working on the next version with corrected bugs.
 - ### Specs:
 - Create up to 10 wagons, next version will have 20 wagons
-- Max Frequency 1000Hz
-- Max Duty Cycle 25%
-- You can save up to 50 presets on this ver-1. Future version only up to 30 due to memory space.
+- Max Frequency 1000Hz (safe settings)
+- Max Duty Cycle max 25%  (safe settings)
+- You can save up to 50 presets on this ver-1. Future version will have only up to 30 due to memory space.
 - Select between Unipolar and Bipolar square waves.
-- The preset can be repeated up to 99 times.
+- The preset can be repeated up to 59 times.
 - Time for each wagon max 59 minutes.
 - ### Predifined:
 - List of conditions https://marcogentile.life/pemf-frequency-chart
