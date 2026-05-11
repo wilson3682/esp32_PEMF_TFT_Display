@@ -12,7 +12,7 @@
 - ### Predifined:
 - Link to frequency chart and conditions https://marcogentile.life/pemf-frequency-chart
 - ### My Saved:
-- You can see and load your own custom presets.
+- You can save and load your own custom presets.
 - ### Custom:
 - Here you can create your own presets try and save them.
 #
